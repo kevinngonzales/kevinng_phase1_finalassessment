@@ -1,11 +1,16 @@
 body {
+  font-family: Garamond, serif;
+  font-style: italic;
+  font-size: larger;
+  color: #373737;
+  background-color: lavender;
 
+  text-align: center;
 }
 
-.mealsList {
-
-}
 
 .mealContainer {
-
+  border: 1px solid #373737;
+  margin: 50px;
+  box-sizing: border-box;
 }
